@@ -11,3 +11,16 @@ C:\Users\Dicky26\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsAppsForm.
 C:\Users\Dicky26\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 C:\Users\Dicky26\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\Dicky26\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsAppsForm.vbproj.AssemblyReference.cache
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.exe.config
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsAppsForm.vbproj.GenerateResource.cache
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsAppsForm.vbproj.CoreCompileInputs.cache
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Dicky26\Documents\CODING\kuliah_gunadarma\Dickybulin26\Algoritma1B_Visual_Basic\WindowsApp1\obj\Debug\WindowsApp1.pdb

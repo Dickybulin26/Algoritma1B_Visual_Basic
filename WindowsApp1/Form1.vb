@@ -42,11 +42,7 @@ Public Class Form1
     End Sub
 
     Private Sub CheckBox2_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox2.CheckedChanged
-        If CheckBox2.Checked Then
-            Label2.Font = New Font(Label2.Font, FontStyle.Bold)
-        Else
-            Label2.Font = New Font(Label2.Font, FontStyle.Regular)
-        End If
+        UpdateFontStyle()
     End Sub
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
